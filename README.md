@@ -52,8 +52,8 @@ No liability is accepted for any damages.
 ### Screenshots 
 ![Dashboard ](screenshots/dashboard.jpg)
 ![Training – Programs](screenshots/programms.jpg)
-![Logs](screenshots/log.png)
-![Settings – Accent Color](screenshots/settings.png)
+![Logs](screenshots/log.jpg)
+![Settings – Accent Color](screenshots/settings.jpg)
 
 # License
 
