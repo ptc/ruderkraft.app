@@ -1,4 +1,4 @@
-## English
+## Ruderkraft 
 
 Ruderkraft was built for the **Decathlon Domyos Woodrower** and is an **FTMS‑based fitness app**.
 It not only shows all relevant training metrics, but also lets you build your own workouts with different resistance levels to keep training varied.
